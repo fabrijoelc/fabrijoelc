@@ -31,7 +31,7 @@ Actualmente dando forma al ecosistema de **WAN Perfumería** 🧴
 | :--- | :--- | :---: |
 | 🧴 **[WAN Perfumería](https://www.wanperfumeria.com)** | Catálogo de fragancias y compra por WhatsApp. | 🟢 En evolución |
 | 📦 **WAN Control** | Gestión de inventario, pedidos, caja y clientes. | 🛠️ En desarrollo |
-| 🧾 **Sistema de planillas** | Gestión de trabajadores y remuneraciones. | 💡 En planificación |
+| 🧾 **Sistema de planillas** | Gestión de trabajadores y remuneraciones. | 🧪 En validación |
 
 📚 **[Mis proyectos de Java Full Stack · Código/Tecsup](https://github.com/fabrijoelc/java-fullstack-codigo-tecsup)**
 
